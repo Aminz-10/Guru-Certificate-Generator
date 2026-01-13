@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>This page was not found ▷ setasign.com</title>
+<meta name="robots" content="index,follow"/>
+<meta name="author" content="Setasign, https://www.setasign.com"/>
+<meta property="og:site_name" content="Setasign"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="https://www.setasign.com/error-404/"/>
+<meta property="og:title" content="This page was not found ▷ setasign.com"/>
+<meta property="og:locale" content="en_US"/>
+<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0"/>
+<meta http-equiv="imagetoolbar" content="no"/>
+<meta name="msapplication-TileColor" content="#da532c"/>
+<meta name="msapplication-TileImage" content="/images/mstile-144x144.png"/>
+<meta name="theme-color" content="#ffffff"/>
+<link rel="stylesheet" type="text/css" href="/js/font-awesome-4.6.3/package/css/font-awesome.min.css"/>
+<link rel="stylesheet" type="text/css" href="/style/global.css?1766059869"/>
+<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon"/>
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png"/>
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png"/>
+<link rel="manifest" href="/site.webmanifest"/>
+<link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5"/>
+<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png"/>
+<script type="text/javascript" src="/js/jquery-2.2.4/jquery.min.js"></script>
+<script type="text/javascript" src="https://use.typekit.net/izt8ycx.js"></script>
+<script type="text/javascript" src="/js/scripts.js?1710844733"></script>
+<script type="text/javascript" src="https://cdn.usefathom.com/script.js" data-site="LUNEXUSF" data-included-domains="www.setasign.com" defer="defer"></script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.setasign.com/"},{"@type":"ListItem","position":2,"name":"This page was not found","item":"https://www.setasign.com/error-404/"}]}</script>
+<!--[if lte IE 10]>
+<link rel="stylesheet" type="text/css" href="/style/ie.css" />
+<![endif]-->
+<script type="text/javascript">
+    try{Typekit.load({ async: false });}catch(e){}
+</script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('consent', 'default', {
+        'ad_user_data': 'denied',
+        'ad_personalization': 'denied',
+        'ad_storage': 'denied',
+        'analytics_storage': 'denied'
+    });
+    gtag('js', new Date());
+    gtag('config', 'AW-1058975995');
+</script>
+</head>
+<body>
+<div id="head">
+    <div class="wrapper">
+        <a href="/"><img src="/images/logo.png" /></a>
+            <input type="checkbox" id="hamburger">
+    <label for="hamburger" class="hamburger">
+    </label>
+
+    <nav id="mainNavigation">
+        <ul>
+                            <li class=" hasSubs">
+                    <a href="/products/" title="Products">Products</a>
+                                            <input type="checkbox" id="subData-7">
+                        <label for="subData-7" class="subData">
+                        </label>
+                        <ul>
+                                                    <li>
+                                <a href="/products/setapdf-core/" title="SetaPDF-Core">SetaPDF-Core</a>
+                            </li>
+                                                    <li>
+                                <a href="/products/setapdf-extractor/" title="SetaPDF-Extractor">SetaPDF-Extractor</a>
+                            </li>
+                                                    <li>
+                                <a href="/products/setapdf-formfiller/" title="SetaPDF-FormFiller">SetaPDF-FormFiller</a>
+                            </li>
+                                                    <li>
+                                <a href="/products/setapdf-merger/" title="SetaPDF-Merger">SetaPDF-Merger</a>
+                            </li>
+                                                    <li>
+                                <a href="/products/setapdf-signer/" title="SetaPDF-Signer">SetaPDF-Signer</a>
+                            </li>
+                                                    <li>
+                                <a href="/products/setapdf-stamper/" title="SetaPDF-Stamper">SetaPDF-Stamper</a>
+                            </li>
+                                                    <li>
+                                <a href="/products/fpdi/" title="FPDI">FPDI</a>
+                            </li>
+                                                    <li>
+                                <a href="/products/fpdi-pdf-parser/" title="FPDI PDF-Parser">FPDI PDF-Parser</a>
+                            </li>
+                                                </ul>
+                                    </li>
+                            <li class=" hasSubs">
+                    <a href="/support/" title="Support">Support</a>
+                                            <input type="checkbox" id="subData-8">
+                        <label for="subData-8" class="subData">
+                        </label>
+                        <ul>
+                                                    <li>
+                                <a href="/support/faq/" title="FAQ">FAQ</a>
+                            </li>
+                                                    <li>
+                                <a href="/support/manuals/" title="Manuals">Manuals</a>
+                            </li>
+                                                </ul>
+                                    </li>
+                            <li class=" hasSubs">
+                    <a href="/about-us/" title="About Us">About Us</a>
+                                            <input type="checkbox" id="subData-9">
+                        <label for="subData-9" class="subData">
+                        </label>
+                        <ul>
+                                                    <li>
+                                <a href="/about-us/our-clients/" title="Our Clients">Our Clients</a>
+                            </li>
+                                                </ul>
+                                    </li>
+                            <li class="">
+                    <a href="/contact/" title="Contact">Contact</a>
+                                    </li>
+                    </ul>
+    </nav><!--end navigation-->        <div id="search">
+    <form method="get" action="/searchresults/">
+        <div><input type="text" name="q" class="text" placeholder="Search" value="" /><input type="submit" class="submit" value="&#xF094;" /></div>
+    </form>
+</div>    </div>
+</div>
+
+<div id="breadcrumb">
+    <div class="wrapper">
+            <nav>
+        <ul itemscope itemtype="https://schema.org/BreadcrumbList">
+                            <li itemprop="itemListElement" itemscope
+                    itemtype="https://schema.org/ListItem"
+                                    >
+                    <a itemprop="item" href="/" title="Home">
+                        <span itemprop="name">Home</span>
+                    </a>
+                    <meta itemprop="position" content="1" />
+                </li>
+                            <li itemprop="itemListElement" itemscope
+                    itemtype="https://schema.org/ListItem"
+                    class="last"                >
+                    <a itemprop="item" href="/error-404/" title="This page was not found">
+                        <span itemprop="name">This page was not found</span>
+                    </a>
+                    <meta itemprop="position" content="2" />
+                </li>
+                    </ul>
+    </nav>
+        <div class="loginLink">
+        <a href="/login/login" id="loginLink"><i class="fa fa-lock"></i> Login</a>
+    <div class="hoverBox loginBox" id="loginBox">
+        <form action="/login/login?redirect=%2Fdl%2F162818%2Ffpdi-2.6.1.zip" method="post">
+                    <fieldset>
+                <label for="user">E-mail</label>
+                <input type="text" name="user" id="user" />
+                <label for="password">Password</label>
+                <input type="password" name="password" id="password" />
+
+                <button type="submit" name="login">Login</button>
+            </fieldset>
+        </form>
+        <div class="footer">
+            <p>
+                <a href="/forgotten-password/">Forgotten your password?</a><br />
+                <a href="/register/">Register now</a>
+            </p>
+        </div>
+    </div>
+    </div>            </div>
+</div>
+
+<header>
+    <div class="wrapper default">
+        <h1>Error 404 - Page not found</h1>
+    </div>
+</header>
+
+
+<div id="content">
+    <div class="wrapper default">
+            <p class="errorMsg">The requested URL was not found on this server.</p><div class="productTeasers">
+    <div class="productTeaser">
+        <a href="/products/setapdf-core/"><img src="/images/products/core-ws.png"></a>
+        <div class="teaserContent">
+            <h3>SetaPDF-Core</h3>
+            <p>The SetaPDF-Core component is a toolset for low level access of PDF files with PHP.</p>
+            <ul class="buttons">
+                <li><a href="/products/setapdf-core/">Details</a></li>
+                    <li><a href="/products/setapdf-core/demos/">Demos</a></li>
+                </ul>
+        </div>
+    </div>
+    <div class="productTeaser">
+        <a href="/products/setapdf-extractor/"><img src="/images/products/extractor-ws.png"></a>
+        <div class="teaserContent">
+            <h3>SetaPDF-Extractor</h3>
+            <p>The SetaPDF-Extractor component allows PHP developers to extract textual content from existing PDF documents. Beside extracting text it is also possible to extract words, glyphs and their 
+positions and bounding boxes.</p>
+            <ul class="buttons">
+                <li><a href="/products/setapdf-extractor/">Details</a></li>
+                    <li><a href="/products/setapdf-extractor/demos/">Demos</a></li>
+                </ul>
+        </div>
+    </div>
+    <div class="productTeaser">
+        <a href="/products/setapdf-formfiller/"><img src="/images/products/formfiller-ws.png"></a>
+        <div class="teaserContent">
+            <h3>SetaPDF-FormFiller</h3>
+            <p>The SetaPDF-FormFiller component allows PHP developers to fill in existing PDF forms with dynamic data.</p>
+            <ul class="buttons">
+                <li><a href="/products/setapdf-formfiller/">Details</a></li>
+                    <li><a href="/products/setapdf-formfiller/demos/">Demos</a></li>
+                </ul>
+        </div>
+    </div>
+    <div class="productTeaser">
+        <a href="/products/setapdf-merger/"><img src="/images/products/merger-ws.png"></a>
+        <div class="teaserContent">
+            <h3>SetaPDF-Merger</h3>
+            <p>The SetaPDF-Merger allows PHP developers to concatenate or split existing PDF documents with PHP.</p>
+            <ul class="buttons">
+                <li><a href="/products/setapdf-merger/">Details</a></li>
+                    <li><a href="/products/setapdf-merger/demos/">Demos</a></li>
+                </ul>
+        </div>
+    </div>
+    <div class="productTeaser">
+        <a href="/products/setapdf-signer/"><img src="/images/products/signer-ws.png"></a>
+        <div class="teaserContent">
+            <h3>SetaPDF-Signer</h3>
+            <p>The SetaPDF-Signer component allows PHP developers to digital sign PDF documents with PHP.</p>
+            <ul class="buttons">
+                <li><a href="/products/setapdf-signer/">Details</a></li>
+                    <li><a href="/products/setapdf-signer/demos/">Demos</a></li>
+                </ul>
+        </div>
+    </div>
+    <div class="productTeaser">
+        <a href="/products/setapdf-stamper/"><img src="/images/products/stamper-ws.png"></a>
+        <div class="teaserContent">
+            <h3>SetaPDF-Stamper</h3>
+            <p>The SetaPDF-Stamper allows PHP developers to add new content to existing PDF documents in a fast, easy, and reliable way.</p>
+            <ul class="buttons">
+                <li><a href="/products/setapdf-stamper/">Details</a></li>
+                    <li><a href="/products/setapdf-stamper/demos/">Demos</a></li>
+                </ul>
+        </div>
+    </div>
+    <div class="productTeaser">
+        <a href="/products/fpdi/"><img src="/images/products/fpdi-ws.png"></a>
+        <div class="teaserContent">
+            <h3>FPDI</h3>
+            <p>FPDI is a collection of PHP classes facilitating developers to read pages from existing PDF documents and use them as templates in FPDF.</p>
+            <ul class="buttons">
+                <li><a href="/products/fpdi/">Details</a></li>
+                    <li><a href="/products/fpdi/demos/">Demos</a></li>
+                </ul>
+        </div>
+    </div>
+    <div class="productTeaser">
+        <a href="/products/fpdi-pdf-parser/"><img src="/images/products/fpdi-pdf-parser-ws.png"></a>
+        <div class="teaserContent">
+            <h3>FPDI PDF-Parser</h3>
+            <p>With the FPDI PDF-Parser as a commercial addon FPDI will be able to handle PDF documents with a version higher than 1.4.</p>
+            <ul class="buttons">
+                <li><a href="/products/fpdi-pdf-parser/">Details</a></li>
+                </ul>
+        </div>
+    </div>
+</div>    <script>
+ document.addEventListener('DOMContentLoaded', function() {
+  var path = window.location.pathname + window.location.search;
+  fathom.trackEvent('404: ' + path);
+});
+</script>
+            </div>
+</div>
+
+<footer>
+    <div class="wrapper">
+        <div class="copyright">
+    &copy; 2026 Setasign GmbH & Co. KG
+    &middot; <a href="/contact/">Contact / Imprint</a>
+    &middot; <a href="/data-privacy-statement/en/">Data Privacy Statement</a> (<a href="/data-privacy-statement/de/">German</a>)
+</div>        <div class="followUs">
+    <ul class="followUsList">
+        <li>Follow us:</li>
+                <li><a href="https://facebook.com/Setasign" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="https://twitter.com/Setasign" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="https://github.com/Setasign" target="_blank"><i class="fa fa-github"></i></a></li>
+            </ul>
+    <script>
+        $('.followUsList a').click(function(e) {
+            var href = e.currentTarget.getAttribute('href');
+            var url = new URL(href);
+            fathom.trackEvent('Follow us: ' + url.host);
+        });
+    </script>
+</div>
+    </div>
+</footer>
+
+<iframe style="display:none;" id="tmpIframe" name="tmpIframe"></iframe>
+<script type="text/javascript">
+$(function () {
+    function setCookie(name, value) {
+        let expires = new Date();
+        expires.setDate(expires.getDate() + 365);
+        let cValue = encodeURI(value) + '; expires=' + expires.toUTCString() + ';path=/';
+        document.cookie = name + '=' + cValue;
+    }
+
+    /**
+     * @returns {null|boolean}
+     */
+    function checkCookiesAllowed() {
+        let cookieValue = document.cookie.match(/(;)?cookiebar2025=([^;]*);?/);
+        if (cookieValue === null) {
+            return null;
+        }
+
+        return cookieValue[2] === 'CookieAllowed';
+    }
+
+    let cookiesAllowed = checkCookiesAllowed();
+    if (cookiesAllowed === null) {
+        let resizeObserver = null;
+        $('#cookie-bar').show(0, function () {
+            const body = $('body');
+            body.addClass('cookieBannerVisible');
+            const cookieBanner = $('#cookie-bar');
+            const cookieBannerEl = cookieBanner.get(0);
+            let margin = parseInt(cookieBannerEl.clientHeight);
+            if (margin > 0) {
+                body.get(0).style.setProperty('--body-margin', margin + 'px');
+                $(window).resize();
+            }
+
+            try {
+                resizeObserver = new ResizeObserver(function (entries) {
+                    for (const entry of entries) {
+                        const height = entry.contentRect.height;
+                        body.get(0).style.setProperty('--body-margin', height + 'px');
+                    }
+                });
+                resizeObserver.observe(cookieBannerEl);
+            } catch {
+                // in case the resizeObserver isn't supported
+            }
+        });
+
+        $('#cookie-bar-button').click(function () {
+            setCookie('cookiebar2025', 'CookieAllowed');
+            gtag('consent', 'update', {
+                ad_user_data: 'granted',
+                ad_personalization: 'granted',
+                ad_storage: 'granted'
+            });
+            $('#cookie-bar').hide();
+            $('body').removeClass('cookieBannerVisible')
+                .get(0).style.removeProperty('--body-margin');
+            if (resizeObserver) {
+                resizeObserver.disconnect();
+            }
+
+            var gtagScript = document.createElement('script');
+            gtagScript.async = true;
+            gtagScript.src = 'https://www.googletagmanager.com/gtag/js?id=AW-1058975995';
+
+            var firstScript = document.getElementsByTagName('script')[0];
+            firstScript.parentNode.insertBefore(gtagScript,firstScript);
+        });
+
+        $('#cookie-bar-button-no').click(function () {
+            setCookie('cookiebar2025', 'CookieForbidden');
+            $('#cookie-bar').hide();
+            $('body').removeClass('cookieBannerVisible')
+                .get(0).style.removeProperty('--body-margin');
+            if (resizeObserver) {
+                resizeObserver.disconnect();
+            }
+        });
+    }
+});
+</script>
+<div>
+    <div id="cookie-bar" style="display: none;">
+        <p>
+            This website makes use of marketing (Third-Party) cookies to enhance browsing experience and provide additional functionality.
+            For more details please see our
+            <a href="/data-privacy-statement/en/">Data Privacy Statement</a>
+            (<a href="/data-privacy-statement/de/">German</a>).
+        </p>
+        <p>
+            <a id="cookie-bar-button">Allow marketing cookies</a>
+            <a id="cookie-bar-button-no">Disallow marketing cookies</a>
+        </p>
+    </div>
+</div>
+<!--setasite-output-->
+</body>
+</html>
